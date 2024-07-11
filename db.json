@@ -170,6 +170,15 @@
       "stock": 210,
       "brand": "LightSmart",
       "rating": 4.6
+    },
+    {
+      "id": "0xBBCCDD",
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": 19.99,
+      "stock": 170,
+      "brand": "PowerBoost",
+      "rating": 4.5
     }
   ]
 }
