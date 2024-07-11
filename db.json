@@ -1,182 +1,184 @@
-[
-  {
-    "id": "0x1A2B3C",
-    "name": "Wireless Mouse",
-    "category": "Electronics",
-    "price": 29.99,
-    "stock": 150,
-    "brand": "TechPro",
-    "rating": 4.5
-  },
-  {
-    "id": "0x1B2C3D",
-    "name": "Bluetooth Headphones",
-    "category": "Electronics",
-    "price": 59.99,
-    "stock": 200,
-    "brand": "SoundWave",
-    "rating": 4.7
-  },
-  {
-    "id": "0x2A3B4C",
-    "name": "Smartphone Case",
-    "category": "Accessories",
-    "price": 15.99,
-    "stock": 300,
-    "brand": "CoverPlus",
-    "rating": 4.3
-  },
-  {
-    "id": "0x2B3C4D",
-    "name": "Portable Charger",
-    "category": "Electronics",
-    "price": 24.99,
-    "stock": 120,
-    "brand": "ChargeMax",
-    "rating": 4.6
-  },
-  {
-    "id": "0x3A4B5C",
-    "name": "LED Desk Lamp",
-    "category": "Home",
-    "price": 34.99,
-    "stock": 80,
-    "brand": "BrightLight",
-    "rating": 4.8
-  },
-  {
-    "id": "0x3B4C5D",
-    "name": "Gaming Keyboard",
-    "category": "Electronics",
-    "price": 49.99,
-    "stock": 100,
-    "brand": "GameOn",
-    "rating": 4.9
-  },
-  {
-    "id": "0x4A5B6C",
-    "name": "Stainless Steel Water Bottle",
-    "category": "Sports",
-    "price": 19.99,
-    "stock": 250,
-    "brand": "HydroFlow",
-    "rating": 4.4
-  },
-  {
-    "id": "0x4B5C6D",
-    "name": "Yoga Mat",
-    "category": "Fitness",
-    "price": 29.99,
-    "stock": 180,
-    "brand": "FlexFit",
-    "rating": 4.7
-  },
-  {
-    "id": "0x5A6B7C",
-    "name": "Electric Kettle",
-    "category": "Home",
-    "price": 39.99,
-    "stock": 90,
-    "brand": "QuickBoil",
-    "rating": 4.5
-  },
-  {
-    "id": "0x5B6C7D",
-    "name": "Running Shoes",
-    "category": "Footwear",
-    "price": 79.99,
-    "stock": 70,
-    "brand": "SpeedTrack",
-    "rating": 4.8
-  },
-  {
-    "id": "0x6A7B8C",
-    "name": "Noise Cancelling Earbuds",
-    "category": "Electronics",
-    "price": 99.99,
-    "stock": 110,
-    "brand": "QuietTunes",
-    "rating": 4.6
-  },
-  {
-    "id": "0x6B7C8D",
-    "name": "Smartwatch",
-    "category": "Electronics",
-    "price": 149.99,
-    "stock": 60,
-    "brand": "TimeTech",
-    "rating": 4.7
-  },
-  {
-    "id": "0x7A8B9C",
-    "name": "Fitness Tracker",
-    "category": "Fitness",
-    "price": 69.99,
-    "stock": 140,
-    "brand": "FitPulse",
-    "rating": 4.5
-  },
-  {
-    "id": "0x7B8C9D",
-    "name": "Electric Toothbrush",
-    "category": "Health",
-    "price": 49.99,
-    "stock": 130,
-    "brand": "SmileBright",
-    "rating": 4.6
-  },
-  {
-    "id": "0x8A9BAC",
-    "name": "Laptop Stand",
-    "category": "Accessories",
-    "price": 25.99,
-    "stock": 190,
-    "brand": "ErgoDesk",
-    "rating": 4.8
-  },
-  {
-    "id": "0x8B9CAD",
-    "name": "Portable Speaker",
-    "category": "Electronics",
-    "price": 45.99,
-    "stock": 85,
-    "brand": "SoundBlast",
-    "rating": 4.7
-  },
-  {
-    "id": "0x9AABBC",
-    "name": "HD Webcam",
-    "category": "Electronics",
-    "price": 39.99,
-    "stock": 160,
-    "brand": "ClearView",
-    "rating": 4.4
-  },
-  {
-    "id": "0x9BACBD",
-    "name": "Air Purifier",
-    "category": "Home",
-    "price": 89.99,
-    "stock": 50,
-    "brand": "PureAir",
-    "rating": 4.9
-  },
-  {
-    "id": "0xAABBCC",
-    "name": "Smart Light Bulbs",
-    "category": "Home",
-    "price": 29.99,
-    "stock": 210,
-    "brand": "LightSmart",
-    "rating": 4.6
-  },
-  {
-    "id": "0xBBCCDD",
-    "name": "Wireless Charger",
-    "category": "Electronics",
-    "price": 19.99,
-    "stock": 170,
-    "brand": "PowerBoost",
-    "rating": 4.5
-  }
-]
+{
+  "products": [
+    {
+      "id": "0x1A2B3C",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 150,
+      "brand": "TechPro",
+      "rating": 4.5
+    },
+    {
+      "id": "0x1B2C3D",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 200,
+      "brand": "SoundWave",
+      "rating": 4.7
+    },
+    {
+      "id": "0x2A3B4C",
+      "name": "Smartphone Case",
+      "category": "Accessories",
+      "price": 15.99,
+      "stock": 300,
+      "brand": "CoverPlus",
+      "rating": 4.3
+    },
+    {
+      "id": "0x2B3C4D",
+      "name": "Portable Charger",
+      "category": "Electronics",
+      "price": 24.99,
+      "stock": 120,
+      "brand": "ChargeMax",
+      "rating": 4.6
+    },
+    {
+      "id": "0x3A4B5C",
+      "name": "LED Desk Lamp",
+      "category": "Home",
+      "price": 34.99,
+      "stock": 80,
+      "brand": "BrightLight",
+      "rating": 4.8
+    },
+    {
+      "id": "0x3B4C5D",
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "price": 49.99,
+      "stock": 100,
+      "brand": "GameOn",
+      "rating": 4.9
+    },
+    {
+      "id": "0x4A5B6C",
+      "name": "Stainless Steel Water Bottle",
+      "category": "Sports",
+      "price": 19.99,
+      "stock": 250,
+      "brand": "HydroFlow",
+      "rating": 4.4
+    },
+    {
+      "id": "0x4B5C6D",
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 29.99,
+      "stock": 180,
+      "brand": "FlexFit",
+      "rating": 4.7
+    },
+    {
+      "id": "0x5A6B7C",
+      "name": "Electric Kettle",
+      "category": "Home",
+      "price": 39.99,
+      "stock": 90,
+      "brand": "QuickBoil",
+      "rating": 4.5
+    },
+    {
+      "id": "0x5B6C7D",
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 79.99,
+      "stock": 70,
+      "brand": "SpeedTrack",
+      "rating": 4.8
+    },
+    {
+      "id": "0x6A7B8C",
+      "name": "Noise Cancelling Earbuds",
+      "category": "Electronics",
+      "price": 99.99,
+      "stock": 110,
+      "brand": "QuietTunes",
+      "rating": 4.6
+    },
+    {
+      "id": "0x6B7C8D",
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "price": 149.99,
+      "stock": 60,
+      "brand": "TimeTech",
+      "rating": 4.7
+    },
+    {
+      "id": "0x7A8B9C",
+      "name": "Fitness Tracker",
+      "category": "Fitness",
+      "price": 69.99,
+      "stock": 140,
+      "brand": "FitPulse",
+      "rating": 4.5
+    },
+    {
+      "id": "0x7B8C9D",
+      "name": "Electric Toothbrush",
+      "category": "Health",
+      "price": 49.99,
+      "stock": 130,
+      "brand": "SmileBright",
+      "rating": 4.6
+    },
+    {
+      "id": "0x8A9BAC",
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "price": 25.99,
+      "stock": 190,
+      "brand": "ErgoDesk",
+      "rating": 4.8
+    },
+    {
+      "id": "0x8B9CAD",
+      "name": "Portable Speaker",
+      "category": "Electronics",
+      "price": 45.99,
+      "stock": 85,
+      "brand": "SoundBlast",
+      "rating": 4.7
+    },
+    {
+      "id": "0x9AABBC",
+      "name": "HD Webcam",
+      "category": "Electronics",
+      "price": 39.99,
+      "stock": 160,
+      "brand": "ClearView",
+      "rating": 4.4
+    },
+    {
+      "id": "0x9BACBD",
+      "name": "Air Purifier",
+      "category": "Home",
+      "price": 89.99,
+      "stock": 50,
+      "brand": "PureAir",
+      "rating": 4.9
+    },
+    {
+      "id": "0xAABBCC",
+      "name": "Smart Light Bulbs",
+      "category": "Home",
+      "price": 29.99,
+      "stock": 210,
+      "brand": "LightSmart",
+      "rating": 4.6
+    },
+    {
+      "id": "0xBBCCDD",
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": 19.99,
+      "stock": 170,
+      "brand": "PowerBoost",
+      "rating": 4.5
+    }
+  ]
+}
