@@ -180,5 +180,167 @@
       "brand": "PowerBoost",
       "rating": 4.5
     }
-  ]
+  ],
+  "todos": [
+    {
+      "id": "0x1A2B3C",
+      "title": "Grocery Shopping",
+      "description": "Buy fruits, vegetables, and dairy products",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-07-15"
+    },
+    {
+      "id": "0x1B2C3D",
+      "title": "Doctor Appointment",
+      "description": "Annual physical check-up",
+      "completed": false,
+      "priority": "Medium",
+      "due_date": "2024-07-16"
+    },
+    {
+      "id": "0x2A3B4C",
+      "title": "Finish Project Report",
+      "description": "Complete the final draft of the project report",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-07-20"
+    },
+    {
+      "id": "0x2B3C4D",
+      "title": "Car Service",
+      "description": "Take the car for scheduled maintenance",
+      "completed": false,
+      "priority": "Low",
+      "due_date": "2024-07-18"
+    },
+    {
+      "id": "0x3A4B5C",
+      "title": "Workout",
+      "description": "Gym session for strength training",
+      "completed": true,
+      "priority": "Medium",
+      "due_date": "2024-07-11"
+    },
+    {
+      "id": "0x3B4C5D",
+      "title": "Team Meeting",
+      "description": "Weekly team sync-up meeting",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-07-13"
+    },
+    {
+      "id": "0x4A5B6C",
+      "title": "Read Book",
+      "description": "Finish reading 'Atomic Habits'",
+      "completed": false,
+      "priority": "Low",
+      "due_date": "2024-07-25"
+    },
+    {
+      "id": "0x4B5C6D",
+      "title": "Call Plumber",
+      "description": "Fix the leaking kitchen sink",
+      "completed": true,
+      "priority": "Medium",
+      "due_date": "2024-07-12"
+    },
+    {
+      "id": "0x5A6B7C",
+      "title": "Plan Vacation",
+      "description": "Finalize itinerary and bookings for summer vacation",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-08-01"
+    },
+    {
+      "id": "0x5B6C7D",
+      "title": "Update Resume",
+      "description": "Add recent work experience and skills",
+      "completed": false,
+      "priority": "Medium",
+      "due_date": "2024-07-22"
+    },
+    {
+      "id": "0x6A7B8C",
+      "title": "Organize Closet",
+      "description": "Sort and donate unused clothes",
+      "completed": false,
+      "priority": "Low",
+      "due_date": "2024-07-30"
+    },
+    {
+      "id": "0x6B7C8D",
+      "title": "Client Presentation",
+      "description": "Prepare slides for client meeting",
+      "completed": true,
+      "priority": "High",
+      "due_date": "2024-07-14"
+    },
+    {
+      "id": "0x7A8B9C",
+      "title": "Pay Bills",
+      "description": "Pay electricity, water, and internet bills",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-07-15"
+    },
+    {
+      "id": "0x7B8C9D",
+      "title": "Bake Cake",
+      "description": "Bake a chocolate cake for the weekend",
+      "completed": false,
+      "priority": "Low",
+      "due_date": "2024-07-19"
+    },
+    {
+      "id": "0x8A9BAC",
+      "title": "Gardening",
+      "description": "Plant new flowers in the garden",
+      "completed": false,
+      "priority": "Medium",
+      "due_date": "2024-07-21"
+    },
+    {
+      "id": "0x8B9CAD",
+      "title": "Review Budget",
+      "description": "Analyze monthly expenses and savings",
+      "completed": false,
+      "priority": "High",
+      "due_date": "2024-07-28"
+    },
+    {
+      "id": "0x9AABBC",
+      "title": "Laundry",
+      "description": "Wash and fold clothes",
+      "completed": true,
+      "priority": "Low",
+      "due_date": "2024-07-11"
+    },
+    {
+      "id": "0x9BACBD",
+      "title": "Dentist Appointment",
+      "description": "Routine dental check-up",
+      "completed": false,
+      "priority": "Medium",
+      "due_date": "2024-07-23"
+    },
+    {
+      "id": "0xAABBCC",
+      "title": "Renew Subscription",
+      "description": "Renew annual subscription for streaming service",
+      "completed": false,
+      "priority": "Low",
+      "due_date": "2024-07-31"
+    },
+    {
+      "id": "0xBBCCDD",
+      "title": "Write Blog Post",
+      "description": "Draft and publish a new blog post on productivity",
+      "completed": false,
+      "priority": "Medium",
+      "due_date": "2024-07-17"
+    }
+  ]  
 }
